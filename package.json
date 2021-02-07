@@ -1,0 +1,23 @@
+{
+  "name": "BackFillScriptGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcevens/BackFillScriptGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcevens/BackFillScriptGenerator/issues"
+  },
+  "homepage": "https://github.com/mcevens/BackFillScriptGenerator#readme",
+  "dependencies": {
+    "sequelize": "^6.5.0"
+  }
+}
